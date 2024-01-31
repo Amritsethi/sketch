@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+#score{
+    font-size: x-large;
+    margin-left: 100px;
+}
+#score{
+    font-size: x-large;
+    margin-right: 100px;
+    float: right;
+}
